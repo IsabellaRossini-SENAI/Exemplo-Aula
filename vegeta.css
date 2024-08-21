@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(65, 63, 63);    
+    margin: auto;
+    background-image: url(/_imagens/R.png);
+    background-repeat: no-repeat; 
+    background-position: 50%;
+    background-size: 50%;
+    background-attachment: fixed;
+}
+div{
+    position: absolute;
+    top: 90px;
+    background-color: rgba(0, 0, 0, 0.432);
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    background-attachment: fixed;
+}
+h1{
+    color: rgb(64, 64, 255);
+    text-align: center;
+}
+h3{
+    color: rgb(255, 191, 0);
+    text-align: center;
+}
+th{
+    text-transform: uppercase;
+    background-color: rgb(255, 191, 0);
+    border: 1px solid blue;
+    color: black;
+    height: 40px;
+}
+td{
+    background-color: rgb(65, 63, 63);
+    color: white;
+    border: 1px solid blue;
+    height: 40px;
+}
+#prod{
+    width: 30%;
+}
+#desc{
+    width: 55%;
+
+}
+#prec{
+    width: 15%;
+}
+table{
+    width: 100%;
+    text-align: 40%;
+    margin: auto;
+    border: 1px solid blue;
+    background-color: none;
+}
+.gifs{
+    
+    top: 2%;
+    background-color: none;
+    text-align: left;
+    margin: auto;
+    width: 10%;
+    background-attachment: fixed;
+    size: 10%;
+}
+img{
+    width: 150%;
+}
